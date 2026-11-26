@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Congkai Wu
-### 嗨 👋 我是 Congkai Wu
+### 嗨 👋 我是 伍从锴
 
 - 🎓 **Computer Science graduate student at Hangzhou Dianzi University**  
   杭州电子科技大学计算机专业研究生
