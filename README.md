@@ -1,12 +1,21 @@
-### Hi there 👋 I'm Congkai Wu
-### 嗨 👋 我是 伍从锴
+<h1 align="center">
+  Congkai Wu <code>@wucongkai</code>
+</h1>
 
-- 🎓 **Computer Science graduate student at Hangzhou Dianzi University**  
-  杭州电子科技大学计算机专业研究生
+### Hi all!
 
-- 🔭 Interested in **AI, software development, and open source**.  
-  关注**人工智能、软件开发与开源**。
+I am Congkai Wu (伍从锴), a Computer Science graduate student at Hangzhou Dianzi University.
 
-- 🌐 Personal website / 个人网站：[wucongkai.github.io](https://wucongkai.github.io/)
+My interests include artificial intelligence, software development, and open source.
 
-![Congkai Wu's GitHub Stats](https://github-stats-extended.vercel.app/api?username=wucongkai&custom_title=Congkai%20Wu%27s%20GitHub%20Stats&theme=default)
+<img align="right" width="350" alt="wucongkai's GitHub contribution streak" src="https://streak-stats.demolab.com/?user=wucongkai&amp;theme=vue&amp;timezone=Asia%2FShanghai&amp;disable_animations=true">
+
+### Where to find me
+
+<p align="left">
+  <a href="https://wucongkai.github.io/">Homepage</a> •
+  <a href="https://wucongkai.github.io/#projects">Projects</a> •
+  <a href="https://wucongkai.github.io/#notes">Notes</a>
+</p>
+
+Email: [hduwucongkai@163.com](mailto:hduwucongkai@163.com)
