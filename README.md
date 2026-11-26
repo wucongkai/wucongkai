@@ -1,10 +1,6 @@
-<h1 align="center">
-  Congkai Wu <code>@wucongkai</code>
-</h1>
-
 ### Hi all!
 
-I am Congkai Wu (伍从锴), a Computer Science graduate student at Hangzhou Dianzi University.
+I am Congkai Wu, a Computer Science graduate student at Hangzhou Dianzi University.
 
 My interests include artificial intelligence, software development, and open source.
 
