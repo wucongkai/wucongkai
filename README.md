@@ -8,7 +8,6 @@ I am Congkai Wu (伍从锴), a Computer Science graduate student at Hangzhou Dia
 
 My interests include artificial intelligence, software development, and open source.
 
-<img align="right" width="350" alt="wucongkai's GitHub contribution streak" src="https://streak-stats.demolab.com/?user=wucongkai&amp;theme=vue&amp;timezone=Asia%2FShanghai&amp;disable_animations=true">
 
 ### Where to find me
 
